@@ -31,6 +31,6 @@ Anaconda Navigator:
 
 Email para contato :
 - gabrielqap@hotmail.com
-- ~o de paulo~
+- pauloaugusto992@gmail.com
 - thyall96@gmail.com
 
