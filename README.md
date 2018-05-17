@@ -9,7 +9,7 @@ estudar e analisar a existência entre a relação de gastos e/ou investimentos 
 
 Do total de dados disponibilizados pela plataforma <http://dados.ufrn.br/>, apenas foram necessarios alguns darquivos, que já estão no repositório na pasta Dados. Para a leitura, criação de dataframes, uma primeira visualização e aplicação de cálculos, foram utilizadas as bibliotecas Pandas e também a Numpy. Com isso foi gerado dois arquivos com todos os dados necessários para a realização do projeto, um  relacionando as unidades com os gastos, e o outro relacionando as unidades com os índices de aprovação e reprovação por período. Após os dataframes serem gerados, utilizamos as bibliotecas Matplotlib.pyplot e Seaborn para a criação dos gráficos.
 
-## Languege
+## Language
 Python3
 
 ## Softwares
